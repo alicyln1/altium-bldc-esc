@@ -1,8 +1,10 @@
-# Altium Designer | Three-Phase BLDC ESC PCB
+# Altium Designer | Four-Layer BLDC ESC PCB
 
 Altium Designer project for a three-phase brushless DC motor controller (ESC). The design brings together a multi-sheet schematic, custom component libraries, and a routed PCB.
 
 Altium Designer ile tasarlanmış üç fazlı BLDC motor sürücüsü (ESC) kartı. Proje; çok sayfalı şematik, bileşen kütüphaneleri ve PCB yerleşimini bir araya getiriyor.
+
+**PCB stack / Katman yapısı:** 4 bakır katman — Top, Mid-Layer 1, Mid-Layer 2, Bottom (üst, iki iç katman ve alt).
 
 ## Design overview
 
